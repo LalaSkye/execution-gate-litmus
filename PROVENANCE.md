@@ -28,3 +28,7 @@ TrinityOS, AlvianTech, Execution Boundary Series
 ## Copyright
 
 © Ricky Dean Jones / Os-Trilogy LMT. All rights reserved except as granted by the repository licence.
+
+## Non-claims
+
+This repository does not claim ownership of general concepts such as pre-execution validation, authorization checks, or standard security patterns.

@@ -1,4 +1,4 @@
-"""Adversarial test suite for the authority gate.
+"""Adversarial test suite for the execution gate.
 
 Tests 6 categories:
 1. Standard cases (ALLOW, DENY, NONE)

@@ -20,7 +20,7 @@ It is interpreted.
 This is a minimal, runnable test that simulates:
 
 - an action (e.g. delete, send, transfer)
-- an authority gate
+- an execution gate
 - a verdict (ALLOW / DENY / NONE)
 
 It then checks:
@@ -112,3 +112,8 @@ Ricky Dean Jones / Os-Trilogy LMT
 Part of the [Execution Boundary Series](https://github.com/LalaSkye).
 
 © 2026 Os-Trilogy LMT. All rights reserved except as granted by the repository licence.
+
+---
+
+This repository demonstrates deterministic control using standard engineering techniques. No proprietary frameworks or external implementations are used.
+

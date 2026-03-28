@@ -1,4 +1,4 @@
-"""Authority gate — fail-closed by design.
+"""Execution gate — fail-closed by design.
 
 Only exact string "ALLOW" permits execution.
 Everything else — DENY, None, unknown, junk — returns False.
