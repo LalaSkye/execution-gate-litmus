@@ -1,4 +1,6 @@
 # Execution Gate Litmus (v1)
+New to this work? Start here:
+[https://github.com/LalaSkye/start-here](https://github.com/LalaSkye/start-here)
 
 Most systems claim governance.
 
