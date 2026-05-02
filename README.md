@@ -61,6 +61,12 @@ This test checks whether execution is structurally dependent on authority.
 
 ---
 
+## What this does not prove
+
+This repository does not prove adoption, certification, standardisation, or production readiness.
+
+It demonstrates a bounded execution-control surface that can be run, inspected, and tested.
+
 ## Run
 
 ```bash
